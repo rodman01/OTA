@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+        <Stable>
+        <m3>
+            <Filename>ResurrectionRemix-N-v5.8.0-2-20161218-i9305.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/i9305/</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://www.dropbox.com/s/joggptmq9sxo70o/CHANGELOG.mkdn?dl=1</ChangelogUrl>
+            <SlimGappsUrl
+            	id="slim_gapps"
+            	title="Slim GApps"
+            	description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=48213</SlimGappsUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	</m3>
+    </Stable>
+</SlimOTA>
