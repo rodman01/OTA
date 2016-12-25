@@ -5,16 +5,20 @@
             <Filename>RR-N-v5.8.0-20161223-3-i9305-official.zip</Filename>
             <RomUrl
                 id="rom"
-                title="Rom"
-                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/i9305/</RomUrl>
+                title="Downloads"
+                description="Download latest builds">http://bit.ly/2i7pyfD</RomUrl>
+             <RommUrl
+                id="romm"
+                title="Downloads mirror"
+                description="Mirror links for the builds">http://bit.ly/2ifS2Rz</RommUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <SlimGappsUrl
-                id="gapps"
-                title="Gapps"
-                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </i9305>
     </Stable>
 </SlimOTA>
