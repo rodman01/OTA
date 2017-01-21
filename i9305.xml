@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <i9305>
-            <Filename>RR-N-v5.8.0-4-20170121-i9305-official.zip</Filename>
+            <Filename>RR-N-v5.8.0-20170121-i9305-official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
