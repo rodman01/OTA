@@ -2,11 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <i9305>
-            <Filename>RR-N-v5.8.1-20170131-i9305-Official</Filename>
+            <Filename>RR-N-v5.8.2-20170224-i9305-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix/files/i9305/</RomUrl>
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/i9305/RR-N-v5.8.2-20170224-i9305-Official.zip</RomUrl>
+            <MirrorUrl
+                id="mirror"
+                title="MirrorRom"
+                description="Mirror for Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix/files/i9305</MirrorUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -14,7 +18,7 @@
             <OpenGappsUrl
             	id="open_gapps"
             	title="Open"
-            	description="Download latest Open GApps">http://opengapps.org/</OpenGappsUrl>
+            	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
         </i9305>
     </Stable>
 </SlimOTA>
