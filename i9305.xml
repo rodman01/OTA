@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 	<Stable>
         <i9305>
-            <Filename>Filename>RR-N-v5.8.2-20170225-i9305-Official.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170225-i9305-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -10,7 +10,7 @@
               <FolderUrl
 	       id="folder"
                title="folder"
-	       description="i9305 Download folder">http://downloads.resurrectionremix.com/i9305//FolderUrl>
+	       description="i9305 Download folder">http://downloads.resurrectionremix.com/i9305/FolderUrl>
 	      <ChangelogUrl
                 id="changelog"
                 title="Changelog"
