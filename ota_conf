@@ -1,0 +1,12 @@
+#
+# OTA XML
+#
+# See dragon.xml for example
+#
+# Note:
+# * Multiple devices can be added in the xml file
+# * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
+#
+ota_url=https://raw.githubusercontent.com/rodman01/OTA/master/i9305.xml
+release_type=Stable
+device_name=ro.rr.device
