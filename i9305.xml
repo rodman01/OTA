@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/i9305/RR-N-v5.8.2-20170321-i9305-Official-LineageOS.zip/RomUrl>
+                description="Latest ResurrectionRemix build">https://sourceforge.net/projects/resurrectionremix/files/i9305/RR-N-v5.8.2-20170321-i9305-Official-LineageOS.zip//download<RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
